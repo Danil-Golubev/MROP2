@@ -2,15 +2,17 @@
   "name": "mrpo2",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "lint": "eslint src/NOK.js"
+    "lint": "eslint src/NOK.js",
+    "start":"node src/index.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "eslint-plugin-import": "^2.31.0"
+    "eslint-plugin-import": "^2.31.0",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
