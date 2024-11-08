@@ -1,0 +1,1 @@
+<a href="https://codeclimate.com/github/Danil-Golubev/MROP2/maintainability"><img src="https://api.codeclimate.com/v1/badges/92b8031c15bb38d32413/maintainability" /></a>
